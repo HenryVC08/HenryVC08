@@ -28,7 +28,7 @@ Apasionado por la tecnología, la programación y la creación de soluciones pr�
 ### 📫 Contacto
 
 - ✉️ henryvaldezcusi.08@gmail.com  
-- 🌐 [LinkedIn (opcional)](https://www.linkedin.com/in/henryvc08/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/henryvc08/)  
 - 💼 Portafolio: [henryvc08.github.io/portafolio](https://henryvc08.github.io/portafolio/)
 
 ---
