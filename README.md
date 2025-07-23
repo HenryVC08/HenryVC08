@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Henry Valdez Cusi
 
-### 💻 Desarrollador web | Bachiller de Ingeniería de Sistemas  
+### 💻 Desarrollador web 
 Apasionado por la tecnología, la programación y la creación de soluciones prácticas. Siempre busco aprender cosas nuevas y mejorar mis habilidades día a día.
 
 ---
